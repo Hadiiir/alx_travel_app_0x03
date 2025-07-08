@@ -1,5 +1,5 @@
-if [ -f "README.md" ] && [ -s "README.md" ]; then
-    echo "✅ README.md exists and is not empty"
-else
-    echo "❌ README.md either doesn't exist or is empty"
-fi
+## Celery Email Notifications Setup
+
+1. Install requirements:
+```bash
+pip install -r requirements.txt
